@@ -1,25 +1,24 @@
-# 👋 Hi, I'm Greg
+# Gregorio Hakimian
 
 **Data Engineering | Data Architecture | AI-ready Systems**
 
-I work at the intersection of technology, data, and business.
-
-I focus on designing and evolving data platforms that support **scalable operations, analytics, and AI use cases**.
+I work at the intersection of data, technology, and business.
 
 ---
 
 ## About Me
 
-I’m a technology professional with a background in **data engineering, data architecture, and enterprise systems**, combined with a foundation in **software development and database systems**.
+I’m a technology professional focused on **data engineering, data architecture, and data platforms**, with a foundation in software development and database systems.
 
-Over time, I’ve been involved in **complex technology initiatives**, including system implementations, integrations, and transformation processes, working across both startup and corporate environments.
+My experience combines technical depth and business understanding. I started my career in software development and database administration, which gave me a solid grounding in systems and data management. Over time, I expanded into data platforms and large-scale data initiatives, taking on program and delivery responsibilities in projects related to Big Data and machine learning-based products.
 
-My work has included:
-- Designing and evolving data and system architectures  
-- Leading cross-functional initiatives  
-- Collaborating closely with business stakeholders and clients  
+I’ve worked in roles ranging from hands-on technical work to executive-level positions, leading initiatives that required aligning engineering execution with business goals. This has involved working with multidisciplinary teams, engaging with clients and partners, and operating in environments with data privacy and compliance constraints.
 
-I tend to approach problems from a **systems perspective**, connecting data, applications, and business processes into coherent solutions.
+My experience spans both **startup and corporate environments**, including founding a software development company, which later became part of an international group.
+
+I take **end-to-end ownership** of the challenges I work on, with a strong focus on execution and outcomes.
+
+I hold a degree in **Information Systems Engineering** and a postdegree in **Business Administration** (MBA), complemented by further studies in data privacy, information security, leadership, and communication. This background allows me to connect technical decisions with business impact.
 
 ---
 
@@ -42,31 +41,7 @@ This involves work around:
 
 ---
 
-## Core Strengths
-
-Areas where I typically add value:
-
-### Architecture & Systems Thinking  
-Connecting data, systems, and business processes into coherent architectures.
-
-### Engineering Foundation  
-Background in software development and database systems, with experience working with systems in production environments.
-
-### Transformation Experience  
-Involvement in initiatives spanning legacy environments, enterprise platforms, and organizational change.
-
-### Technical Leadership  
-Experience working with multidisciplinary teams across technology and business domains.
-
-### Data Governance & Privacy  
-Exposure to data protection, controls, and compliance-oriented environments.
-
-### Stakeholder Collaboration  
-Used to working with business teams, clients, and decision-makers in different contexts.
-
----
-
-## Tech Focus (Current Direction)
+## Tech Focus
 
 I’m currently focusing on a **modern data and AI-oriented stack**:
 
@@ -88,18 +63,35 @@ I’m currently focusing on a **modern data and AI-oriented stack**:
 
 ---
 
+## Certifications
+
+- AWS Solutions Architect Associate
+- AWS Data Engineer Asociate
+
+---
+
 ## Experience Snapshot
 
-- Participation in enterprise-wide implementations
-- Work on IT and data foundations to support scalability  
-- Coordination with cross-functional teams in complex environments  
-- Exposure to multi-country operational contexts  
+- Participation in enterprise-wide technology and data platform implementations, including complex system integrations
+- Design and evolution of data and system architectures, connecting applications, data, and business processes
+- Strong foundation in software development and database systems, with experience in production environments
+- Work on IT and data foundations to support scalability, analytics, and operational growth
+Involvement in data-driven products and monetization initiatives, including Big Data and machine learning contexts
+- Leadership and coordination of cross-functional and multidisciplinary teams in transformation initiatives
+- Experience working across legacy environments, modern platforms, and organizational change processes
+- Collaboration with business stakeholders, clients, and decision-makers in different contexts
+Work in environments with data governance, privacy, and compliance requirements
+- Exposure to multi-country operations and distributed teams
 
 ---
 
 ## Projects & Case Studies
 
-This portfolio reflects an approach to building **data systems across different layers**, from engineering foundations to AI-oriented platforms.
+The projects are structured to represent different layers of a data ecosystem:
+
+- **Engineering Foundations** → dotfiles
+- **Data Platforms & Use Cases** → Credit Scoring
+- **AI-oriented Systems** → RAG Platform
 
 ---
 
@@ -141,35 +133,6 @@ A personal setup focused on **productivity and reproducibility**.
 - Environment consistency
 - CLI-based workflows
 - Development efficiency
-
----
-
-## How to Read This Portfolio
-
-The projects are structured to represent different layers of a data ecosystem:
-
-- **Engineering Foundations** → dotfiles
-- **Data Platforms & Use Cases** → Credit Scoring
-- **AI-oriented Systems** → RAG Platform
-
----
-
-## Current Focus
-
-- Data Platform Engineering  
-- Data Architecture for AI systems  
-- Modern Data Stack practices  
-- Scalable and maintainable data systems  
-
----
-
-## Education & Certifications
-
-- AWS Solutions Architect Associate
-- AWS Data Engineer Asociate
-- Bachelor’s Degree in Information Systems Engineering
-- MBA (Business & Strategy)
-- International Program in Data Privacy
 
 ---
 
