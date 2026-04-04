@@ -43,23 +43,30 @@ This involves work around:
 
 ## Tech Focus
 
-I’m currently focusing on a **modern data and AI-oriented stack**:
-
-**Languages**
-- Python
+**Data Processing**
 - SQL
-
-**Data Stack**
-- dbt  
-- Airflow
-
-**Cloud & Platforms**
-- AWS
+- Python
+- Pandas
+- SQLAlchemy
+- Jupyter Notebooks
+- Data modeling
+- Data Warehouse
 - Data Lake
+- dbt
+- Airflow
+- Airbyte
 
-**Engineering Practices**
-- APIs & integrations
-- Docker
+**Cloud & Infrastructure**
+- AWS
+- Terraform
+- Docker & Docker Compose
+
+**Engineering & Tooling**
+- Git & GitHub
+- Linux
+- Shell scripting
+- Plain text data processing
+- Soda
 
 ---
 
