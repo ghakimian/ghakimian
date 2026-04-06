@@ -1,6 +1,6 @@
 # Gregorio Hakimian
 
-**Data Engineering | Data Architecture | AI-ready Systems**
+**Data Engineering | Data Architecture | Data foundations for AI**
 
 I work at the intersection of data, technology, and business.
 
@@ -18,7 +18,7 @@ My experience spans both **startup and corporate environments**, including found
 
 I take **end-to-end ownership** of the challenges I work on, with a strong focus on execution and outcomes.
 
-I hold a degree in **Information Systems Engineering** and a postdegree in **Business Administration** (MBA), complemented by further studies in data privacy, information security, leadership, and communication. This background allows me to connect technical decisions with business impact.
+I hold a degree in **Information Systems Engineering** and a postdegree in **Business Administration**, complemented by further studies in data privacy, information security, leadership, and communication. This background allows me to connect technical decisions with business impact.
 
 ---
 
@@ -77,18 +77,11 @@ This involves work around:
 
 ---
 
-## Experience Snapshot
+## Currently Exploring
 
-- Participation in enterprise-wide technology and data platform implementations, including complex system integrations
-- Design and evolution of data and system architectures, connecting applications, data, and business processes
-- Strong foundation in software development and database systems, with experience in production environments
-- Work on IT and data foundations to support scalability, analytics, and operational growth
-Involvement in data-driven products and monetization initiatives, including Big Data and machine learning contexts
-- Leadership and coordination of cross-functional and multidisciplinary teams in transformation initiatives
-- Experience working across legacy environments, modern platforms, and organizational change processes
-- Collaboration with business stakeholders, clients, and decision-makers in different contexts
-Work in environments with data governance, privacy, and compliance requirements
-- Exposure to multi-country operations and distributed teams
+- Toon file format processing
+- Spec-Driven Development
+- Data for AI (RAG): document chunking, embeddings, and vector database integration (Pinecone, Weaviate)
 
 ---
 
